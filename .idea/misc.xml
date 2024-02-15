@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (saucers_ms)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (saucers_ms)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (saucers-ms)" project-jdk-type="Python SDK" />
 </project>
